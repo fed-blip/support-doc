@@ -1,6 +1,6 @@
 Якщо UI виглядає ось так:
 
-![UI screenshot](Pasted image 20260212183603.png)
+![UI screenshot](../photo/UI-screenshot.png)
 
 Це означає що файли `primary-key` биті, і їх потрібно видалити. 
 Для цього підключаємось до поштомату, зупиняємо сервіс UI
